@@ -29,7 +29,7 @@ MambaTAD is a state-space based TAD framework that brings **long-range temporal 
 
 Please refer to **OpenTAD**’s installation guide for environment setup:
 
-> 👉 [OpenTAD/docs/en/install.md](OpenTAD/docs/en/install.md)
+> 👉 [install.md](docs/en/install.md)
 
 Follow that document to:
 - Create the conda environment,
@@ -38,19 +38,11 @@ Follow that document to:
 
 ---
 
-This document covers:
-- Supported TAD datasets,
-- Download links,
-- Annotation formats,
-- And how to convert them into the format required by MambaTAD / OpenTAD.
-
----
-
 ## 🚀 Usage
 
 Please refer to **`usage.md`** for details of training and evaluation scripts:
 
-> 👉 [usage.md](OpenTAD/docs/en/usage.md)
+> 👉 [usage.md](docs/en/usage.md)
 
 You will find:
 - Example commands for training MambaTAD with different backbones,
