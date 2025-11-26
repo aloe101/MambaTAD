@@ -65,3 +65,12 @@ Our implementation is built upon the excellent open-source work from:
   🔗 <https://github.com/OpenGVLab/video-mamba-suite>
 
 We sincerely thank the authors and maintainers of these projects for making their code publicly available.
+
+
+---
+
+If you find this repository useful, please use the following BibTeX entry for citation.
+
+```latex
+
+```
