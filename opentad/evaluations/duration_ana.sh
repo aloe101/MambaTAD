@@ -1,0 +1,6 @@
+python mAP_md.py --f '/home/hui007/tad/OpenTAD/exps/thumos/actionformer_i3d/gpu1_id0/result_detection.json'
+python mAP_md.py --f '/home/hui007/tad/OpenTAD/exps/thumos/actionformer_internvideo6b+g/gpu1_id0/result_detection.json'
+python mAP_md.py --f '/home/hui007/tad/OpenTAD/exps/thumos/tridet_i3d/gpu1_id0/result_detection.json'
+python mAP_md.py --f '/home/hui007/tad/OpenTAD/exps/thumos/dyfadet_videomaev2_g/gpu1_id0/result_detection.json'
+python mAP_md.py --f '/home/hui007/tad/OpenTAD/exps/thumos/videomambasuite_internvideo6b_test/gpu1_id0/result_detection.json'
+python mAP_md.py --f '/home/hui007/tad/OpenTAD/exps/thumos/bssdm_i3d/gpu1_id0/result_detection.json'
