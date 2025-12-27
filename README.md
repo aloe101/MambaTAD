@@ -72,5 +72,10 @@ We sincerely thank the authors and maintainers of these projects for making thei
 If you find this repository useful, please use the following BibTeX entry for citation.
 
 ```latex
-
+@article{lu2025mambatad,
+  title={MambaTAD: When State-Space Models Meet Long-Range Temporal Action Detection},
+  author={Lu, Hui and Yu, Yi and Lu, Shijian and Rajan, Deepu and Ng, Boon Poh and Kot, Alex C and Jiang, Xudong},
+  journal={arXiv preprint arXiv:2511.17929},
+  year={2025}
+}
 ```
